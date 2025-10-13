@@ -286,7 +286,7 @@ ReMind envisions cognitive care that is **beautiful, inclusive, and scientifical
 ## 15. Contact & Community
 
 * **Project Lead:** Haoda “Daaa” Zhao
-* **GitHub:** [github.com/ReMindProject](https://github.com/ReMindProject)
+* **GitHub:** [github.com/zzhhdaaa/ReMind](https://github.com/zzhhdaaa/ReMind)
 * **Email:** [to be added]
 * **Community:** Discord / Slack – ReMind Open Collective
 * **License:** MIT + CC BY-NC 4.0
