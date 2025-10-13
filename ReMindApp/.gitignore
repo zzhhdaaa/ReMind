@@ -99,6 +99,6 @@ InitTestScene*.unity*
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 
 # Dev Tools & Environment specific
-/.vscode/
-/.idea/
-.DS_Store
+/.vscode
+/.idea
+**/.DS_Store
